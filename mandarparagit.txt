@@ -1,0 +1,9 @@
+cd "diretorio onde ta o ficheiro"
+mv "nome ficheiro" "nome diretoria git(a104350)"
+cd entrar no git (a104350)   ----pode ser depois do clone--- 
+git clone "segundo senos do repositorio" 
+git add __ficheiro 
+git commit -m "merdas"
+git push 
+nome : bart115 
+pass: steam 
